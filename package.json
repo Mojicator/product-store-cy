@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-cypress",
+  "version": "1.0.0",
+  "description": "cypress udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mojicator",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.15.0"
+  }
+}
